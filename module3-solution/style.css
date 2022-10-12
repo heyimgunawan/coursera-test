@@ -16,7 +16,7 @@
 }
 
 .navbar-brand:hover{
-	color: white;
+	color: orangered;
 }
 
 .nav{
@@ -44,9 +44,9 @@
 .main-title{
   margin-bottom: 15px;
   text-align: center;
-  color: black;
+  color: orangered;
   font-size: 50px;
-  font-family: "Comic Sans MS", cursive, sans-serif;
+  font-family: "sans-serif;";
   font-weight: bold;
 }
 
